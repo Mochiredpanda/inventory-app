@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748223231732",
+    "project_id": "avenger-41d91",
+    "storage_bucket": "avenger-41d91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748223231732:android:989fa59cc6316dc31510a1",
+        "android_client_info": {
+          "package_name": "com.example.inventory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmux0qccc4ed3aIk7A0kgJfMPcGEgCeuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
