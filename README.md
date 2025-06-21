@@ -8,15 +8,12 @@ This app helps roommates and shared households track ownership, usage, and stora
 
 This is a team final project for CS5520 at Northeastern University.
 
----
-
 ## 🚀 Tech Stack
 
 - **Frontend**: Flutter (Dart)
 - **Backend/Services**: Firebase Firestore, Firebase Authentication, Firebase Storage
 - **Other Tools**: Google ML Kit (image recognition), QR Code API, GitHub Projects (project management)
 
----
 
 ## 🧩 Key Features
 
@@ -45,7 +42,6 @@ This is a team final project for CS5520 at Northeastern University.
   - Optimized UI for mobile responsiveness
   - Real-time updates via Firestore listeners
 
----
 
 ## 🛠 Architecture Overview
 
@@ -54,7 +50,6 @@ This is a team final project for CS5520 at Northeastern University.
 - **Scoped state management** to isolate data across tabs
 - **Widget reusability** and mobile-first UX design
 
----
 
 ## App Workflow Overview
 
@@ -77,18 +72,18 @@ The app is organized into three main segments accessible from a bottom navigatio
 ![Hi-Fi Wireframe Login and Create Account Page](/documentation/HFWF_Login_CreateAccount.png)  
 
 **My Stuff Page**
+
 ![Hi-Fi Wireframe My Stuff Page](/documentation/HFWF_MyStuff.png)  
 
 **Add Item Page**
 ![Hi-Fi Wireframe Add Item Page](/documentation/HFWF_AddItem.png)  
 
-**Edit Item Details Page**  
+**Edit Item Details Page**
 ![Hi-Fi Wireframe Edit Item Page](/documentation/HFWF_EditItem.png)  
 
 **Household Creating, Paring, and Invitation Pages**
 ![Hi-Fi Wireframe Create, Join, and Invite to House Pages](/documentation/HFWF_CreateJoinInviteHouse.png)  
 
----
 
 ## UML Class Diagram  
 
@@ -154,15 +149,12 @@ classDiagram
     HouseItem --|> Item
 ```
 
----
-
 ## Gantt Chart  
 
 Visual timeline for our team’s development cycle (Waterfall style)
 
 ![Project Final Gantt Chart](documentation/AvengersGanttChart_Final.png)  
 
----
 
 ## 🗂 Project Status
 
@@ -170,18 +162,13 @@ Visual timeline for our team’s development cycle (Waterfall style)
 🧪 In progress: improved ML integration, item export features  
 🧱 Full-cycle development completed using waterfall-style planning and milestone tracking via GitHub Projects
 
----
 
 ## 👥 Team
 
 Developed by: Andrew Moran, Jiyu He, Kabila Williams, Steve Chen  
 Final project for CS5520 - Mobile App Development, Northeastern University
 
----
-
 ## 🔗 License
 
 MIT License (or as applicable)
 
-
----
