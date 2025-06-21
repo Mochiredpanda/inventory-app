@@ -76,12 +76,15 @@ The app is organized into three main segments accessible from a bottom navigatio
 ![Hi-Fi Wireframe My Stuff Page](/documentation/HFWF_MyStuff.png)  
 
 **Add Item Page**
+
 ![Hi-Fi Wireframe Add Item Page](/documentation/HFWF_AddItem.png)  
 
 **Edit Item Details Page**
+
 ![Hi-Fi Wireframe Edit Item Page](/documentation/HFWF_EditItem.png)  
 
 **Household Creating, Paring, and Invitation Pages**
+
 ![Hi-Fi Wireframe Create, Join, and Invite to House Pages](/documentation/HFWF_CreateJoinInviteHouse.png)  
 
 
